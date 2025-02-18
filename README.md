@@ -56,7 +56,7 @@ To evaluate the performance of these models I test the models ability to price o
 
 ## Conclusions
 
-Although the market calibrated models perform the best, they produce parameter values that are much more different to values estiamted using historical data. Perhaps adjusting the minimum criteria for jump size in historically calibrated data and the bounds for optimisation may make the models more representative of emprical data and possibly more generalisable. 
+Although the market price calibrated models perform the best, they produce parameter values that are much more different to values estiamted using historical data. Perhaps adjusting the minimum criteria for jump size in historically calibrated data and the bounds for optimisation may make the models more representative of emprical data and possibly more generalisable. 
 
 Furthermore, I think more investigation should be done on the length of data to calibrate the paramteres on. My suggestion would be to trial different periods lengths and jump size criteria to identify what most closely matches market prices. In hindsight, I would collect more option price data to more accurately calibrate my models and conduct more thorough testing. 
 
