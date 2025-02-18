@@ -1,4 +1,4 @@
-# Comparing-Option-Pricing-Models
+# Comparing Option Pricing Models
 
 In this repository I evaluated the ability of the Black Scholes, Merton Jump Diffusion and Kou Jump Diffusion models to price European call options on SPY. I also calibrated the model parameters using various methods to identify the performance of the models in out-of-sample testing.
 
@@ -6,7 +6,7 @@ In this repository I evaluated the ability of the Black Scholes, Merton Jump Dif
 ---
 
 
-## Parameters to be calibrated
+## Parameters to be Calibrated
 
 Black Scholes
 - annual volatility (σ)
